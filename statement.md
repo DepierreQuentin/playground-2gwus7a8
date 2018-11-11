@@ -1,14 +1,17 @@
 # Welcome!
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
-
 ?[Le Visiteur peut "visiter" les classes qui possède la méthode publique :]
 -[ ] Visiter
 -[x] Accepter
 -[ ] Visite
+
+?[Quelle est l'avantage du Pattern Visiteur ? :]
+-[x]L’ajout de nouvelles opérations
+-[ ]L’ajout de nouveaux attributs 
+
+?[Quel type de méthode publique doit être mise à disposition pour qu’une classe soit visité :]
+-[x]Accepted
+-[ ]Accept
+-[ ]Visited
 
 
 # Advanced usage
