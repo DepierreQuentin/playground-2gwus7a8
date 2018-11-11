@@ -5,7 +5,7 @@
 -[x] Easy, this is 42
 -[ ] Peace & Love
 
-?Le Visiteur peut "visiter" les classes qui possède la méthode publique :
+?[Le Visiteur peut "visiter" les classes qui possède la méthode publique :]
 -[ ] Visiter
 -[x] Accepter
 -[ ] Visite
