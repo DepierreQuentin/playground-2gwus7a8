@@ -1,4 +1,4 @@
-# Welcome!
+# Quizz Design Pattern Visitor
 ?[Le Visiteur peut "visiter" les classes qui possède la méthode publique :]
 -[ ] Visiter
 -[x] Accepter
